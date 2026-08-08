@@ -25,6 +25,7 @@
 - Git
 - GitHub Desktop
 - Visual Studio Code
+- Virtual Box
 
 ---
 
