@@ -37,7 +37,7 @@ https://github.com/Cidd1430
 
 **LinkedIn**
 
-https://www.linkedin.com/in/cris-nombrado-a10227427
+https://www.linkedin.com/in/cris-nombrado-c1430
 
 ---
 
